@@ -81,7 +81,7 @@ chmod +x pcap_triage.py
 ### Kali Linux
 
 ```bash
-sudo apt install wireshark-cli   # tshark is in this package on Kali
+sudo apt install tshark   # tshark is in this package on Kali
 git clone https://github.com/K1muraC1ph3r/Wireshark-PCAP-Triage.git
 cd Wireshark-PCAP-Triage
 chmod +x pcap_triage.py
